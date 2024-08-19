@@ -1,6 +1,6 @@
 export const Direction = Object.freeze({
-    UP:'up',
-    Down:'Down',
+    Up:'Up',
+    Down: 'Down',
     Left: 'Left',
-    Right:'Right'
+    Right: 'Right'
 });
